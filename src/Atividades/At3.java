@@ -1,8 +1,8 @@
-package at1;
+package Atividades;
 
 import java.util.Scanner;
 
-public class At1 {
+public class At3 {
 
 	public static boolean valida(Double a, Double b) {
 		if (a == 0 || b == 0) {
